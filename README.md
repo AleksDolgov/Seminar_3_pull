@@ -1,3 +1,5 @@
 # Hello from git
 
-## It's first mesage from Aleks
+## It's first message from Aleks
+
+## It's message from my frieng
